@@ -1,10 +1,10 @@
-# Embedded Systems Training 🚀
+# Embedded Systems Training 
 
 A hands-on embedded systems training repository focused on ESP32 programming, wireless communication, IoT monitoring, CAN bus communication, and real-time operating systems.
 
 This repository documents my practical learning journey through hardware interfacing, communication protocols, sensor integration, cloud connectivity, and multitasking using FreeRTOS.
 
-## 🛠️ Technologies & Tools
+ #Technologies & Tools
 
 - **Microcontroller:** ESP32
 - **Programming Language:** C/C++ (Arduino framework)
@@ -16,7 +16,7 @@ This repository documents my practical learning journey through hardware interfa
 - **Hardware Modules:** MCP2515 CAN controller, buzzer, RGB LEDs
 - **Development Environment:** Arduino IDE
 
-## 📂 Projects
+##  Projects
 
 ### 1. ESP32 LoRa Wireless Communication Using SPI
 
@@ -62,7 +62,7 @@ This repository documents my practical learning journey through hardware interfa
 
 **Key concepts:** RTOS, tasks, queues, inter-task communication, real-time embedded programming.
 
-## 📁 Additional Projects
+## Additional Projects
 
 | Project | File |
 |---|---|
@@ -106,7 +106,7 @@ This repository documents my practical learning journey through hardware interfa
 
 **Note:** Hardware connections, libraries, credentials, and configuration settings differ between projects. Review the individual source file before running it.
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through these projects, I am developing practical skills in:
 
@@ -118,13 +118,13 @@ Through these projects, I am developing practical skills in:
 - FreeRTOS multitasking and queue-based communication
 - Hardware debugging and serial monitoring
 
-## 👨‍💻 About This Repository
+## About This Repository
 
 This repository serves as a record of my hands-on embedded systems training and practical implementation of microcontroller-based projects.
 
 I aim to strengthen my understanding of embedded software development, communication protocols, real-time systems, and connected devices through continuous experimentation and learning.
 
-## 📌 Repository
+##  Repository
 
 GitHub: [IMPACT-design123/Embedded-Training](https://github.com/IMPACT-design123/Embedded-Training)
 
